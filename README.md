@@ -1,3 +1,7 @@
+
+# This is out of use..
+And the test.sh is test for eval ...
+
 # Nodejs Best Practices
 
 In order to protect system security, easy management, easy collaboration, we have developed the following guidelines:
@@ -7,13 +11,12 @@ In order to protect system security, easy management, easy collaboration, we hav
 将依赖写到package.json里面？
 是否使用构建工具？(GUN make，Grunt,Gulp)
 
-
 ### 开发方式
 IDE
 目录结构（静态文件存放位置）
 配置文件管理
-coding style : ES6
-log存放位置，如何与spunk集成？
+coding style : ES6  [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+log存放位置(/apps/logs)，如何与spunk集成？
 数据库选择
 文档管理
 workflow
@@ -31,5 +34,3 @@ service部署方式，开机启动方式(Systemd ?)
 监控工具
 文档位置
 
-
-https://nqdeng.github.io/7-days-nodejs/#1
