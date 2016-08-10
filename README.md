@@ -11,6 +11,7 @@ In order to protect system security, easy management, easy collaboration, we hav
 ### 开发方式
 IDE
 目录结构（静态文件存放位置）
+配置文件管理
 coding style : ES6
 log存放位置，如何与spunk集成？
 数据库选择
@@ -29,3 +30,6 @@ instance, server user
 service部署方式，开机启动方式(Systemd ?)
 监控工具
 文档位置
+
+
+https://nqdeng.github.io/7-days-nodejs/#1
